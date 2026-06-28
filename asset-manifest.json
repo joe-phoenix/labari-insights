@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/labari-insights/static/js/main.f97f50b4.js",
+    "main.js": "/labari-insights/static/js/main.a0a5a0e3.js",
     "index.html": "/labari-insights/index.html",
-    "main.f97f50b4.js.map": "/labari-insights/static/js/main.f97f50b4.js.map"
+    "main.a0a5a0e3.js.map": "/labari-insights/static/js/main.a0a5a0e3.js.map"
   },
   "entrypoints": [
-    "static/js/main.f97f50b4.js"
+    "static/js/main.a0a5a0e3.js"
   ]
 }
